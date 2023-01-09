@@ -2,4 +2,4 @@
 
 ___
 
-Weather app writen in python using the OpenWeatherMap API.
+Work in progress weather app writen in Python using the OpenWeatherMap API.
